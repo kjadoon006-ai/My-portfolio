@@ -1,2 +1,10 @@
-# My-portfolio
-This repo contains my learning projects in Python, Excel, and Data Analysis
+# 👋 Hi, I'm Abdullah  
+- 🎓 3rd year Software Engineering student  
+- 📊 Learning Data Analysis (Python, Excel, SQL)  
+- 🚀 Portfolio of my projects  
+
+## Projects
+1. Sales Analysis in Excel 📈  
+2. Python Data Cleaning Project 🐍  
+3. Visualization Dashboard  
+
